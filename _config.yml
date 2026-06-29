@@ -27,9 +27,9 @@ author:
   name             : "Dongping Du"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : 
+  employer         : "Texas Tech University"
+  uri              : https://www.depts.ttu.edu/imse/faculty/dongping_du/index.php
   email            : "dongping.du@ttu.edu" 
 
   # Academic websites
